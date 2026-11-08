@@ -1,6 +1,6 @@
 # Mackie ProFX22v3 practice desk
 
-**[Open the live simulator](https://hollag.github.io/simulator-mackie-profx/)**
+**[Open the live simulator](https://hollag.github.io/simulator-mackie-profx22v3/)**
 
 A browser simulator built with React, TypeScript, Vite and Web Audio. It uses the
 supplied top-panel photo and July 2024 ProFXv3 series manual. Runs locally; no
